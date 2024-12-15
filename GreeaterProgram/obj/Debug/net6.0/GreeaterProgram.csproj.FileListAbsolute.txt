@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\NET\GreeaterProgram\bin\Debug\net6.0\GreeaterProgram.exe
+C:\Users\hp\Documents\NET\GreeaterProgram\bin\Debug\net6.0\GreeaterProgram.deps.json
+C:\Users\hp\Documents\NET\GreeaterProgram\bin\Debug\net6.0\GreeaterProgram.runtimeconfig.json
+C:\Users\hp\Documents\NET\GreeaterProgram\bin\Debug\net6.0\GreeaterProgram.dll
+C:\Users\hp\Documents\NET\GreeaterProgram\bin\Debug\net6.0\GreeaterProgram.pdb
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.AssemblyInfo.cs
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.dll
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\refint\GreeaterProgram.dll
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.pdb
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\GreeaterProgram.genruntimeconfig.cache
+C:\Users\hp\Documents\NET\GreeaterProgram\obj\Debug\net6.0\ref\GreeaterProgram.dll
